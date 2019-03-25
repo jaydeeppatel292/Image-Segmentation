@@ -1,0 +1,3 @@
+/home/p/p_jayd/Project/Project2/code/build/CMakeFiles/rebuild_cache.dir
+/home/p/p_jayd/Project/Project2/code/build/CMakeFiles/edit_cache.dir
+/home/p/p_jayd/Project/Project2/code/build/CMakeFiles/seg.dir
